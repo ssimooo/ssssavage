@@ -12,8 +12,8 @@ global.owner = [
   ['393518398856', 'nobody|'],
   ['393755775755', 'nobody|'],
   ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
-]
+  ['33760536110',  'nobody|'],
+  ['393515131537', 'nobody|'],
 global.suittag = ['390371717717'] 
 global.prems = ['390371717717'] 
 global.reportes_solicitudes = ['390371717717']
